@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6971326
+  lightness: 0.5878136
+  brandStrength: 0.7939068
+  brandColors:
+    - '#171520'
+    - '#7F530D'
+    - '#FBFBFB'
+    - '#FFF05B'
+    - '#305380'
+  rhythmicContrast: 0.6505376
+typography_spectrum: 0.4193548
+name: pgenet
