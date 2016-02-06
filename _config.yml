@@ -1,28 +1,14 @@
-name: pgenet
-favicon: null
-layout_spectrum: 0.52697
+layout_spectrum: 1
 typography_spectrum: 0.4193548
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.6971326
+  lightness: 0.5878136
+  brandStrength: 0.7939068
   brandColors:
-    - '#230f0a'
-    - '#fffeff'
-    - '#893200'
-    - '#fcc28e'
-    - '#e26b30'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+    - '#FFFFFF'
+    - '#414042'
+    - '#0C0B0C'
+    - '#FFB44D'
+    - '#B5AB90'
+  rhythmicContrast: 0.6505376
+name: pgenet
